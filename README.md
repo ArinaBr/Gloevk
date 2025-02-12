@@ -1,2 +1,3 @@
 # Gloevk
-Home goods store
+Completed as part of the course "Introduction to the Frontend" <br />
+(HTML Academy)
